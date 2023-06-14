@@ -28,6 +28,9 @@ This repository focuses on performing a comprehensive Exploratory Data Analysis 
 
 Contributions to this project are welcome. If you have any improvements, bug fixes, or new features to suggest, please submit a pull request.
 
+## Datasets
+
+Dataset are used from Kaggle
 ## License
 
 This project is licensed under the [MIT License](LICENSE), allowing free use, modification, and distribution of the code.
